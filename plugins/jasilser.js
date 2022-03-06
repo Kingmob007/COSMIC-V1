@@ -20,18 +20,18 @@ var ddd = ggg.toString('utf-8')
 Neotro.addCommand({pattern: 'help', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 // send a list message!
     const rows = [
-        {title: 'Aʙᴜ Bᴏᴛ Oᴡɴᴇʀs Nᴜᴍʙᴇʀ', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tɪs Oᴡɴᴇʀs Aʙᴜ Sᴇʀ Nᴀɴʙᴜɴ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Aʙᴜ sᴇʀ *\n 🔮 http://wa.me/+917025994178.\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Lᴜᴄᴋʏ Sᴇʀ*\n🔮 http://wa.me/+916238748280\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Kᴀʟɴ*\n🔮 http://wa.me/+916238532742\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Aᴘᴘᴜ Sᴇʀ*\n🔮 http://wa.me/+918590432917\n\n ", rowId:" rowid1"},
-        {title: 'Gɪᴛ', description: "Aʙᴜ Sᴇʀ Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nhttps://github.com/Arx-Abu/Abu_ser\n\n ", rowId:"rowid2"},
-        {title: 'Aʙᴜ Bᴏᴛ Oғғɪᴄᴀʟ Gʀᴏᴜᴘ Bʏ Kᴀʟᴀɴ', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\n\nhttps://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk\n\n ", rowId:" rowid5"},
-        {title: 'Kᴀʟɴ Sᴇʀ Cʜᴀɴᴀʟ Lɪɴᴋ ', description: "Aʙᴜ Bᴏᴛ Mᴀᴋɪɴɢ Vɪᴅᴇᴏ Tʜɪs Cʜᴀɴᴀʟ\n\n\n*Kᴀʟᴀɴ Sᴇʀ Cʜᴀɴᴀʟ Sᴜʙsᴄʀᴀɪʙᴇ*\n\n*https://youtu.be/OYhA_ZNQ4GQ* ", rowId:" rowid6"},
+        {title: 'COSMIC BOT Oᴡɴᴇʀ Nᴜᴍʙᴇʀ', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tɪs Oᴡɴᴇʀ KHADHER Nᴀɴʙᴜɴ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *COSMIC V1 BY KHADHER *\n 🔮 http://wa.me/+917025191792.\n\n🎭 *KHADHER*\n🔮 http://wa.me/+917560920774\n\n🎭 *COSMIC *\n🔮 http://wa.me/+917025191792\n\n🎭 ", rowId:" rowid1"},
+        {title: 'Gɪᴛ', description: "Aʙᴜ Sᴇʀ Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nNOT RELEASED\n\n ", rowId:"rowid2"},
+        {title: 'COSMIC  Oғғɪᴄᴀʟ Gʀᴏᴜᴘ Bʏ Khadher', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\nhttps://chat.whatsapp.com/FhPPp43dYlNLi499ZJuq5X\n\n\n ", rowId:" rowid5"},
+        {title: 'Khadher Cʜᴀɴᴀʟ Lɪɴᴋ ', description: "NO CHANNEL\n\n\n ", rowId:" rowid6"},
         {title: 'Bᴏᴛ Gʀᴏᴜᴘ Dᴇsᴄʀɪᴘᴛɪᴏɴ', description: "Nɪʏᴀᴍᴀᴍ Iɴɪ Eʟʟᴀᴠᴀʀᴋᴋᴜᴍ Bᴀᴅʜᴀᴋᴀ Mᴀɴ \n\n\n☃️ᴏɴɴᴜᴍ ɪʟʟᴀ ɢʀᴏᴜᴘ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ😁 \n\n  ", rowId:" rowid7"}
        ]
        
-       const sections = [{title: "Aʙᴜ sᴇʀ ❤️", rows: rows}]
+       const sections = [{title: "KHADHER ❤️", rows: rows}]
        
        const button = {
-        buttonText: '💚Aʙᴜ Bᴏᴛ💚',
-        description: "💖✻Aʙᴜ Sᴇʀ Bᴏᴛ✻💖",
+        buttonText: '💚cosmic bot💚',
+        description: "💖✻COSMIC V1 BOT✻💖",
         sections: sections,
         listType: 1
        }
