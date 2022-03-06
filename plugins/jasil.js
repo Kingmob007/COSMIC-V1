@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
  *ᴄᴏꜱᴍɪᴄ ᴠ1 Gʀᴏᴜᴘ: https://chat.whatsapp.com/FhPPp43dYlNLi499ZJuq5X*
 
- *Gɪᴛ Lɪɴᴋ : NOT RELEASED*
+ *Gɪᴛ Lɪɴᴋ : NOT RELEASED JOIN WP GROUP FOR GIT*
 
  *ᴋʜᴀᴅʜᴇʀꫂ⁩..♡︎*
 `}) 
