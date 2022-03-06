@@ -21,7 +21,7 @@ Neotro.addCommand({pattern: 'help', fromMe: false, dontAddCommandList: true}, (a
 // send a list message!
     const rows = [
         {title: 'COSMIC BOT Oᴡɴᴇʀ Nᴜᴍʙᴇʀ', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tɪs Oᴡɴᴇʀ KHADHER Nᴀɴʙᴜɴ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *COSMIC V1 BY KHADHER *\n 🔮 http://wa.me/+917025191792.\n\n🎭 *KHADHER*\n🔮 http://wa.me/+917560920774\n\n🎭 *COSMIC *\n🔮 http://wa.me/+917025191792\n\n🎭 ", rowId:" rowid1"},
-        {title: 'Gɪᴛ', description: "Aʙᴜ Sᴇʀ Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nNOT RELEASED\n\n ", rowId:"rowid2"},
+        {title: 'Gɪᴛ', description: "ᴄᴏꜱᴍɪᴄ ᴠ1 Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nNOT RELEASED\n\n ", rowId:"rowid2"},
         {title: 'COSMIC  Oғғɪᴄᴀʟ Gʀᴏᴜᴘ Bʏ Khadher', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\nhttps://chat.whatsapp.com/FhPPp43dYlNLi499ZJuq5X\n\n\n ", rowId:" rowid5"},
         {title: 'Khadher Cʜᴀɴᴀʟ Lɪɴᴋ ', description: "NO CHANNEL\n\n\n ", rowId:" rowid6"},
         {title: 'Bᴏᴛ Gʀᴏᴜᴘ Dᴇsᴄʀɪᴘᴛɪᴏɴ', description: "Nɪʏᴀᴍᴀᴍ Iɴɪ Eʟʟᴀᴠᴀʀᴋᴋᴜᴍ Bᴀᴅʜᴀᴋᴀ Mᴀɴ \n\n\n☃️ᴏɴɴᴜᴍ ɪʟʟᴀ ɢʀᴏᴜᴘ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ😁 \n\n  ", rowId:" rowid7"}
