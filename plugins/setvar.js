@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/CtaexU3.jpeg";
+    r_text[0] = "https://i.imgur.com/0hsklk8.jpeg";
     
     
     var i = Math.floor(1*Math.random())
@@ -18,9 +18,9 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💙SETVAR💙━━⛦
-💖THIS BOT CREATED BY AMRU BY AMRUTHESH.
+💖THIS BOT CREATED BY KHADHER.
   
-*ẉa.me/➳Setvar*
+*ẉa.me/917025191792*
 ■□■□■□■□■□■□■□■□■□■□
 All setvars are
 
@@ -90,15 +90,15 @@ All setvars are
  To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
 
-     *happy using Amruser bot 💙*
+     *happy using ᴄᴏꜱᴍɪᴄ ᴠ1 bot 💙*
 
-*Editing And Devaloper : AMRU!AMRUTHESH💕*
+*Editing And Devaloper : ᴋʜᴀᴅʜᴇʀ💕*
 
-*Erorr Fixing : Farhan -ABU SER💕*
+*Erorr Fixing : ᴋʜᴀᴅʜᴇʀ💕*
 
-*Supporting : ABU SER💕*
+*Supporting : ᴋʜᴀᴅʜᴇʀ💕*
 
-*User Support : AMRU SER💕*
+*User Support : ᴋʜᴀᴅʜᴇʀ💕*
 
      💙═════💙═════💙
 `}) 
