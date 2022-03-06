@@ -9,7 +9,7 @@ Rashi.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (as
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/CtaexU3.jpeg";
+    r_text[0] = "https://i.imgur.com/0hsklk8.jpeg";
     
     
     var i = Math.floor(1*Math.random())
