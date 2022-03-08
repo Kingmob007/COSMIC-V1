@@ -48,7 +48,7 @@ Project created by <a href="https://github.com/Khadher05">ᴄᴏꜱᴍɪᴄ ᴠ1
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Khadher05/KHADHER-BOT-QR)
   
 ### The Hard Method
 ```js
