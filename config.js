@@ -18,7 +18,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
     VERSION: 'v7.3.6',
     CHANNEL: 'https://t.me/remasterplugin',
-    SESSION: process.env.AMRUSER_CODE === undefined ? '' : process.env.AMRUSER_CODE,
+    SESSION: process.env.ASENA_CODE === undefined ? '' : process.env.ASENA_CODE,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
     FAKE: process.env.FAKE_REMOVE === undefined ? 'false' : process.env.FAKE_REMOVE,
@@ -38,7 +38,7 @@ module.exports = {
     MENTION: process.env.TAG_REPLY === undefined ? '917025191792@s.whatsapp.net' : process.env.TAG_REPLY,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     PLKS: process.env.THERI_LIST === undefined ? false : process.env.THERI_LIST,
-    AFPLK: process.env.YT_PASSWORD === undefined ? false : process.env.YT_PASSWORD,
+    AFPLK: process.env.COSMO_PASSWORD === undefined ? false : process.env.COSMO_PASSWORD,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     INBO: process.env.INBO_BLOCK === undefined ? 'false' : process.env.INBO_BLOCK,
