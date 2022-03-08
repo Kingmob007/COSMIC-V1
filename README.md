@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/Khadher05">ᴄᴏꜱᴍɪᴄ ᴠ1
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KHADHER56/AMRU-SER.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Khadher05/COSMIC-V1.git)
 
 
 
