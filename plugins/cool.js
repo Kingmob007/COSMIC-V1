@@ -23,7 +23,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Gɪᴛ Lɪɴᴋs*\n           *\n🌟═ᴄᴏꜱᴍɪᴄ ᴠ1 ᴏᴡɴᴇʀ ᴋʜᴀᴅʜᴇʀ- »« ᴋʜᴀᴅʜᴇʀ═🌟*\n\n*🔅NOT REALEASED GIT*"
+        r_text[1] = "*Gɪᴛ Lɪɴᴋs*\n           *\n🌟═ᴄᴏꜱᴍɪᴄ ᴠ1 ᴏᴡɴᴇʀ ᴋʜᴀᴅʜᴇʀ- »« ᴋʜᴀᴅʜᴇʀ═🌟*\n\n*🔅https://github.com/Khadher05/COSMIC-V1*"
     
         await message.client.sendMessage(
             message.jid,(r_text[1]), MessageType.text);
@@ -51,7 +51,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Gɪᴛ Lɪɴᴋs*\n           *\n🌟═ᴄᴏꜱᴍɪᴄ ᴠ1 ᴏᴡɴᴇʀ ᴋʜᴀᴅʜᴇʀ- »« ᴋʜᴀᴅʜᴇʀ═🌟*\n\n*🔅NOT RELEASED GIT*"
+        r_text[1] = "*Gɪᴛ Lɪɴᴋs*\n           *\n🌟═ᴄᴏꜱᴍɪᴄ ᴠ1 ᴏᴡɴᴇʀ ᴋʜᴀᴅʜᴇʀ- »« ᴋʜᴀᴅʜᴇʀ═🌟*\n\n*🔅https://github.com/Khadher05/COSMIC-V1"
 
     
         await message.client.sendMessage(
