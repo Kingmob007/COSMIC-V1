@@ -17,7 +17,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
  *Instagram id: https://www.instagram.com/p/__khadher__/?utm_medium=copy_link*
  *COSMO_PASSWORD: _________(password in instagram bio)*
  *githublink : https://github.com/khadher05/COSMIC-V1*
- *Amalser New Acoount Git Link Old Account Is Flagged Hope you Enjoy This Thanku 🥰*
+ *COSMIC V1 New Acoount Git Link Old Account Is Flagged Hope you Enjoy This Thanku 🥰*
 `}) 
 
 }));
