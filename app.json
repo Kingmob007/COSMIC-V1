@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "AMRUSER_CODE": {
-            "description": "Type the code when you got by scanning QR through WhatsApp.",
+            "description": "Type the code when you got by scanning KHADHER BOT QR through WhatsApp (SCAN CHEYTHAPPO KITTIYA CODE).",
             "required": true
         },
         "SUDO": {
