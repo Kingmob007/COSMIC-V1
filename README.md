@@ -37,7 +37,7 @@ Project created by <a href="https://github.com/Khadher05">ᴄᴏꜱᴍɪᴄ ᴠ1
 <div align="center"> 
 
 
-## Click Instagram logo to follow this page👇
+## Click Instagram logo to follow & *_get password_* this page👇
 
  [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/__khadher__)
 
