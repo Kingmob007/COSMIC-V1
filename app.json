@@ -1,6 +1,6 @@
 {
-    "name": "COSMIC V1",
-    "description": "COSMIC is the Modified Version of WhatsAsena, Made By @KHADHER & @AMRUSIR with Baileys.",
+    "name": "COSMIC V1 ",
+    "description": "COSMIC.V1is the Modified Version of WhatsAsena, Made By @khadher05 with Baileys.",
     "logo": "https://i.imgur.com/CtaexU3.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/khadher05/COSMIC-V1",
@@ -8,7 +8,7 @@
     "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
     "stack": "container",
     "env": {
-        "ASENA_CODE": {
+        "AMRUSER_CODE": {
             "description": "Type the code when you got by scanning QR through WhatsApp.",
             "required": true
         },
@@ -16,8 +16,8 @@
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 91xxxxxxxxx,0",
             "required": false
         },
-         "COSMO_PASSWORD": {
-            "description": "YOU WILL GET PASSWORD FROM __khadher__ INSTAGRAM BIO .",
+         "YT_PASSWORD": {
+            "description": "PASSWORD =CHECK __khadher__ INSTAGRAM BIO .",
             "required": true
         },
         "LANGUAGE": {
@@ -38,7 +38,7 @@
         "LG_LOGO": {
             "description": "LOGO list message image link(https://telegra.ph/)link.",
             "required": true,
-            "value": "https://i.imgur.com/0hsklk8.jpeg"
+            "value": ""
         },
         "LOGO_NAME": {
             "description": "Set the logo list name",
@@ -48,7 +48,7 @@
         "ALIVE_BUTTON": {
             "description": "Set the alive message two name",
             "required": true,
-            "value": "KHADHER/COSMICV1"
+            "value": "KHADHER/COSMIC V1"
         },
         "INBO_BLOCK": {
             "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",
@@ -110,14 +110,14 @@
             "value": "^[.!;]"
         },
         "CHAT_BOT": {
-            "description": "Turn your account into a chatbot! .khadher on/off",
+            "description": "Turn your account into a chatbot! .amruser on/off",
             "required": true,
             "value": "false"
         },
         "FIX_ERROR": {
             "description": " Set true if you don't want to see error log.",
             "required": false,
-            "value": "on"
+            "value": "off"
         },
         "SEND_READ": {
             "description": "Write true if you want to throw seen.",
@@ -146,7 +146,7 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "NJAAN PAREENNATH ONN KEEKK"
+            "value": "NJAAAN PARENNATH ONN KEEKK"
         },
         "CMD_LIST": {
             "description": "You can change Command list emojis like: help/❤️/😅/🍃/💌.)",
@@ -190,7 +190,7 @@
         "DEBUG": {
             "description": "Debugging",
             "required": true,
-            "value": "true"
+            "value": "false"
         },
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
@@ -200,12 +200,12 @@
         "OWNER_NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "wa.me/917025191792"
+            "value": "wa.me/91705191792"
         },
         "NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "wa.me/917025191792"
+            "value": "wa.me/917021917192"
         },
         "DEPLOYER": {
             "description": "enter your name here",
@@ -218,7 +218,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```ENTHA MONU NGHETTIYOO NEE😏```"
+            "value": "\n ```I Am Alive !!!``NTHA MONU NGHETTIYOO NEE```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
