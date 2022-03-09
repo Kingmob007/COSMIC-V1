@@ -120,7 +120,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             chalk.green.bold('thanks for following -key cofirmed-')
         );
          }
-         else if (config.AFPLK !== 'cosmic.v1' || config.AFPLK !== 'cos.motrt' || config.AFPLK !== 'kha.dher' || config.AFPLK !== 'sa.hal') {
+         else if (config.AFPLK !== 'cosmicv1' || config.AFPLK !== 'cosmotrt' || config.AFPLK !== 'khadher' || config.AFPLK !== 'sahal') {
          console.log(
             chalk.red.bold('make sure you have typed the correct password'));
          throw new Error("Password Error ⚠⚠ ");         
